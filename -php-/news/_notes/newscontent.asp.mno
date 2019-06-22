@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rec2" value="name:news_id;datatype:INTEGER,name:news_title;datatype:LONGCHAR,name:news_type;datatype:INTEGER,name:news_content;datatype:LONGCHAR,name:news_date;datatype:DATETIME,name:news_author;datatype:LONGCHAR" />
+</info>

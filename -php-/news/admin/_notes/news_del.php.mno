@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:news_id;datatype:int,name:news_title;datatype:string,name:news_type;datatype:string,name:news_content;datatype:blob,name:news_date;datatype:date,name:news_author;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:type_id;datatype:int,name:type_name;datatype:string" />
+</info>

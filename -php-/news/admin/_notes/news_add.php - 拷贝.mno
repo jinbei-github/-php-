@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs1" value="name:type_id;datatype:INTEGER,name:type_name;datatype:LONGCHAR" />
+	<infoitem key="UD_Recordset1" value="name:type_id;datatype:int,name:type_name;datatype:string" />
+</info>

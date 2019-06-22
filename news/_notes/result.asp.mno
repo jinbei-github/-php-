@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:mgjz;datatype:INTEGER,name:tpql;datatype:INTEGER,name:pbbhl;datatype:INTEGER,name:vTotal;datatype:INTEGER,name:mgjzPercent;datatype:DOUBLE,name:tpqlPercent;datatype:DOUBLE,name:pbbhlPercent;datatype:DOUBLE" />
+</info>
